@@ -20,9 +20,19 @@ The environment is set with:
 * NumPy
 * Pandas
 * SciPy
+* ipywidgets - for interactivity
 * [GeostatsPy](https://pypi.org/project/geostatspy/) - geostatistical algorithms and functions (Pyrcz et al., 2021)
 
 The required datasets are available in the [GeoDataSets](https://github.com/GeostatsGuy/GeoDataSets) repository 
+
+The interative Python examples include a variety of topics like:
+
+* Bayesian statistics
+* variogram calculation and modeling
+* spatial estimation
+* spatial simulation
+
+I hope these are helpful to many interested to learn about spatial data analytics, geostatistics and machine learning.
 
 Sincerely,
 
